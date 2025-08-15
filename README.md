@@ -131,8 +131,8 @@ SCSS         33 mins         ██░░░░░░░░░░░░░░░
 ## 🚀 Featured Projects
 
 <div align="center">
-<a href="https://campertrader.de">
-  <img src="https://image.thum.io/get/https://campertrader.de/" />
+<a href="https://campertrader.de/suche">
+  <img src="https://image.thum.io/get/https://campertrader.de/suche" />
 
 </a>
 </div>
