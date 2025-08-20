@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1976D2&height=200&section=header&text=Dominik%20Łysiak&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Integration%20Specialist&descAlignY=55&descAlign=50)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=domlysi&color=blueviolet&style=flat-square&label=Profile+Views)
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@f4b75d66-6530-4c65-a397-5205196c0295)
+[![wakatime](https://wakatime.com/badge/user/f4b75d66-6530-4c65-a397-5205196c0295.svg)](https://wakatime.com/@f4b75d66-6530-4c65-a397-5205196c0295)
 [![GitHub followers](https://img.shields.io/github/followers/domlysi?label=Follow&style=social)](https://github.com/domlysi)
 
 </div>
