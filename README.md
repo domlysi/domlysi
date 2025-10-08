@@ -131,7 +131,7 @@ SCSS         33 mins         ██░░░░░░░░░░░░░░░
 
 <div align="center">
 <a href="https://campertrader.de/suche">
-  <img src="https://image.thum.io/get/https://campertrader.de/suche" />
+  <img src="https://image.thum.io/get/https://campertrader.de" />
 
 </a>
 </div>
