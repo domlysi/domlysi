@@ -4,14 +4,14 @@
   <img alt="Dominik Lysiak — Python, applied AI and product engineering" src="assets/profile-light.svg" width="920">
 </picture>
 
-[Selected work](#selected-work) · [Public code](#public-code) · [Work with me](#work-with-me)
+[Selected work](#selected-work) · [Work with me](#work-with-me)
 
-I build and operate [CamperTrader](https://campertrader.de/), a camper marketplace. My work spans Python/Django APIs, data processing, Vue interfaces and applied AI. I'm particularly interested in turning messy inputs into useful structured data and making tool-using agents easier to inspect and recover.
+I build and operate [Camper Trader](https://campertrader.de/), a camper marketplace. My work spans Python/Django APIs, data processing, Vue interfaces and applied AI. I'm particularly interested in turning messy inputs into useful structured data and making tool-using agents easier to inspect and recover.
 
 ## Selected work
 
 <details open>
-<summary><strong>01 / CamperTrader — product engineering</strong></summary>
+<summary><strong>01 / Camper Trader — product engineering</strong></summary>
 
 Python/Django backend and Vue frontend, including AI-assisted listing prefill: extracting vehicle details from descriptions into editable form fields.
 
@@ -24,7 +24,7 @@ Python/Django backend and Vue frontend, including AI-assisted listing prefill: e
 <details>
 <summary><strong>02 / Marketplace MCP — connecting agents to a real product</strong></summary>
 
-Public read-only tools for searching CamperTrader listings and retrieving details and photos, with explicit input constraints and separation from internal tools.
+Public read-only tools for searching Camper Trader listings and retrieving details and photos, with explicit input constraints and separation from internal tools.
 
 **An engineering question I care about:** how can an assistant respect a buyer's constraints and make the limits of its data clear?
 
@@ -38,13 +38,6 @@ Exploring agent orchestration, scoped tools and recovery after interrupted work.
 **An engineering question I care about:** what should happen when a tool is interrupted and its outcome is uncertain?
 
 </details>
-
-## Public code
-
-| Project | What it does |
-| :--- | :--- |
-| [MCP Bridge](https://github.com/domlysi/mcp-bridge) | Docker setup for running MCP servers through a gateway |
-| [Django REST Skeleton](https://github.com/domlysi/django-rest-skeleton) | Django REST Framework starter with PostgreSQL and Docker |
 
 Most of my product work is in private repositories. I can discuss architecture, tradeoffs and sanitized examples.
 
