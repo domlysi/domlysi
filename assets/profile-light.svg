@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="284" viewBox="0 0 920 284" role="img" aria-labelledby="title desc">
+<title id="title">Dominik Lysiak — Python and applied AI</title><desc id="desc">A terminal-inspired introduction: Python products, typed AI workflows, and tools with explicit boundaries.</desc>
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.cursor{animation:blink 1.4s steps(1) infinite}@keyframes blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
+<rect x="1" y="1" width="918" height="282" rx="16" fill="#ffffff" stroke="#59636e" stroke-opacity=".3"/>
+<path d="M17 1h886a16 16 0 0 1 16 16v30H1V17A16 16 0 0 1 17 1" fill="#f6f8fa"/>
+<g fill="#59636e"><circle cx="24" cy="24" r="4"/><circle cx="40" cy="24" r="4"/><circle cx="56" cy="24" r="4"/></g>
+<text x="81" y="29" fill="#59636e" font-size="12">domlysi / engineering notes</text>
+<text x="36" y="96" fill="#1f2328" font-size="34" font-weight="700">Dominik Lysiak<tspan fill="#087f5b" class="cursor">_</tspan></text>
+<text x="37" y="126" fill="#087f5b" font-size="14" letter-spacing="2">PYTHON · APPLIED AI · PRODUCT ENGINEERING</text>
+<text x="37" y="174" fill="#59636e" font-size="15">$ focus</text>
+<text x="37" y="204" fill="#1f2328" font-size="17">products people can use</text>
+<text x="37" y="231" fill="#1f2328" font-size="17">typed AI workflows · scoped tools · recoverable work</text>
+<text x="37" y="262" fill="#59636e" font-size="12">CamperTrader / founder &amp; engineer</text>
+</svg>
